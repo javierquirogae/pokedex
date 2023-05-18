@@ -1,0 +1,15 @@
+.Pokedex {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .Pokedex-title {
+    text-align: center;
+  }
+  
+  .Pokedex-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
